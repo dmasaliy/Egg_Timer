@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Egg_Timer</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="start_time">0:00 </string>
+    <string name="default_time">00:59 </string>
+    <string name="go_eat">Go eat </string>
+</resources>
